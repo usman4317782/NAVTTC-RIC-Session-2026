@@ -1,0 +1,6 @@
+Ubuntu: https://ubuntu.com/download/desktop
+virtual box: https://download.virtualbox.org/virtualbox/5.2.44/VirtualBox-5.2.44-139111-Win.exe
+GitHub Desktop: https://desktop.github.com/download/
+Git: https://git-scm.com/install/windows
+Windows 8.1: https://archive.org/download/win-8.1-english-x-64-x-86/Win8.1_English_x64.iso
+Windows Server 2019: https://go.microsoft.com/fwlink/p/?LinkID=2195167&clcid=0x409&culture=en-us&country=US
