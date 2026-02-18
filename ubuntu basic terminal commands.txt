@@ -1,0 +1,1 @@
+initial basic command of ubuntu: https://www.geeksforgeeks.org/linux-unix/25-basic-ubuntu-commands/
